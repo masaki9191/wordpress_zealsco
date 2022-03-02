@@ -1,0 +1,8 @@
+@media only screen and (max-width: 768px) {
+	.page-recruit .more-nav .cta3 .img-area img {
+		width: 61vw;
+    height: 47vw;
+    left: 0;
+    top: 0;
+	}
+}
